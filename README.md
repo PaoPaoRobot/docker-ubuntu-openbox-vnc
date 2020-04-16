@@ -1,6 +1,6 @@
 ubuntu-openbox-vnc
 =========================
-## Futures
+## Features
 - VNC server
 - SSH
 
